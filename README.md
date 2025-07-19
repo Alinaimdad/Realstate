@@ -1,20 +1,43 @@
-
 # 🏠 Real Estate Developer Website
 
-A responsive Real Estate Developer Website built using **React JS** and **Tailwind CSS**. This project features modern animations, a property showcase, and a **working contact form** to collect enquiries via email.
+A responsive and modern **Real Estate Developer Website** built using **React JS** and **Tailwind CSS**. This project includes interactive components, smooth animations, and a working contact form.
 
+---
 
+## 📸 Project Screenshots
+
+### 🖼️ About Section
+![About Screenshot](./src/assets/Screenshot%20About.png)
+
+### 📬 Contact Us Section
+![Contact Screenshot](./src/assets/Screenshot%20contact%20us.png)
+
+### 👥 Customer Section
+![Customer Screenshot](./src/assets/Screenshot%20customer.png)
+
+### 📑 Footer Section
+![Footer Screenshot](./src/assets/Screenshot%20footer.png)
+
+### 🧾 Form Section
+![Form Screenshot](./src/assets/Screenshot%20form.png)
+
+### 🏡 Main Page
+![Main Screenshot](./src/assets/Screenshot%20main.png)
+
+### 🗂️ Projects Section
+![Project Screenshot](./src/assets/Screenshot%20project.png)
 
 ---
 
 ## 🚀 Features
 
-- ✅ Fully Responsive Design (Mobile / Tablet / Desktop)
-- 🎨 Styled with Tailwind CSS
-- ✨ Smooth Animations
-- 📩 Working Contact Form (using Formspree)
-- 💡 React Icons Integration
-- 🧼 Clean & Reusable Code Structure
+- ✅ Fully Responsive Layout (Mobile / Tablet / Desktop)
+- 🎨 Tailwind CSS Styling
+- 🏢 Real Estate Project Showcase
+- 📧 Working Contact Form using Formspree
+- ⚙️ Clean, Modern, and Minimal UI
+- 🔀 Navigation Bar with Routing
+- 🔒 Privacy & About Pages
 
 ---
 
@@ -22,33 +45,25 @@ A responsive Real Estate Developer Website built using **React JS** and **Tailwi
 
 - React JS
 - Tailwind CSS
-- Formspree (for contact form email delivery)
-- React Icons
-- Git & GitHub (for version control and hosting)
+- Vite
+- Formspree (for Contact Form)
 
 ---
 
-## 📬 Contact Form Setup
-
-To enable the contact form and receive emails:
-
-1. Go to [https://formspree.io](https://formspree.io)
-2. Sign up and create a new form
-3. Copy your unique form endpoint
-4. In your React code, update the form like this:
+## 🧑‍💻 How to Run the Project
 
 
-1. Clone the Repository
-bash
-cd Realstate
+# Clone this repository
+git clone https://github.com/your-username/realstate_site.git
 
-2. Install Dependencies
-bash
+# Navigate into the directory
+cd realstate_site
+
+# Install dependencies
 npm install
 
-3. Run the Development Server
-bash
-npm start
+# Start the development server
+npm run dev
 
 
 
