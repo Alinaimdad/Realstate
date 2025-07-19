@@ -5,9 +5,15 @@ A responsive and modern **Real Estate Developer Website** built using **React JS
 ---
 
 ## 📸 Project Screenshots
+### 🏡 Main Page
+![Main Screenshot](./src/assets/Screenshot%20main.png)
 
 ### 🖼️ About Section
 ![About Screenshot](./src/assets/Screenshot%20About.png)
+
+### 🗂️ Projects Section
+![Project Screenshot](./src/assets/Screenshot%20project.png)
+
 
 ### 📬 Contact Us Section
 ![Contact Screenshot](./src/assets/Screenshot%20contact%20us.png)
@@ -15,17 +21,13 @@ A responsive and modern **Real Estate Developer Website** built using **React JS
 ### 👥 Customer Section
 ![Customer Screenshot](./src/assets/Screenshot%20customer.png)
 
-### 📑 Footer Section
-![Footer Screenshot](./src/assets/Screenshot%20footer.png)
-
 ### 🧾 Form Section
 ![Form Screenshot](./src/assets/Screenshot%20form.png)
 
-### 🏡 Main Page
-![Main Screenshot](./src/assets/Screenshot%20main.png)
+### 📑 Footer Section
+![Footer Screenshot](./src/assets/Screenshot%20footer.png)
 
-### 🗂️ Projects Section
-![Project Screenshot](./src/assets/Screenshot%20project.png)
+
 
 ---
 
